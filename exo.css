@@ -1,0 +1,54 @@
+
+.entete {
+    margin-top: 1rem;
+}
+
+.web {
+    margin-left: 5rem;
+    color: #645c1f;
+    font-weight: bold;
+}
+
+.projet {
+    margin-left: 4rem;
+    font-size: medium;
+    color: #645c1f;
+    font-weight: bold;
+}
+
+body {
+    font-size: 20px;
+}
+
+.comp {
+    margin-left: 5rem;
+    color: #645c1f;
+    font-weight: bold;
+    font-size: medium;
+    padding-top: 2rem;
+    margin-bottom: 2rem;
+
+}
+
+.container {
+    margin-top: 2rem;
+    font-size: 0.8rem;
+}
+
+.ju {
+    font-weight: bold;
+}
+
+.foot {
+    border: solid 2px rgb(185, 122, 38);
+    background-color: #645c1f;
+    color: white;
+    padding: 2rem 4rem 1rem 7rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    justify-content: space-between
+}
+
+.je {
+    font-size: 0.8rem;
+}
